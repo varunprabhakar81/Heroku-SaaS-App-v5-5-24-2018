@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5ac52471a8144f3b541f8a7e"},"glaccountnumber":"4000","glaccountname":"Dues Revenue","glaccounttype":"Income","__v":0}
+{"_id":{"$oid":"5ac586d9adab384458b19b70"},"glaccountnumber":"1001","glaccountname":"Petty Cash Account","glaccounttype":"Bank","__v":0}
+{"_id":{"$oid":"5ac5892badab384458b19b71"},"glaccountnumber":"2000","glaccountname":"Account Payable","glaccounttype":"Accounts Payable","__v":0}
+{"_id":{"$oid":"5ac5895eadab384458b19b73"},"glaccountnumber":"5000","glaccountname":"Cost of Goods Sold","glaccounttype":"Cost of Goods Sold","__v":0}
+{"_id":{"$oid":"5ac58978adab384458b19b74"},"glaccountnumber":"6000","glaccountname":"General Expenses","glaccounttype":"Expense","__v":0}
+{"_id":{"$oid":"5ac58990adab384458b19b75"},"glaccountnumber":"7000","glaccountname":"Non Operating Revenue","glaccounttype":"Other Income","__v":0}
+{"_id":{"$oid":"5ac589a8adab384458b19b76"},"glaccountnumber":"8000","glaccountname":"Non Recurring Expense","glaccounttype":"Other Expense","__v":0}
+{"_id":{"$oid":"5ac5991dcff597470d02bf66"},"glaccountnumber":"3000","glaccountname":"Retained Earnings","glaccounttype":"Equity","__v":0}
+{"_id":{"$oid":"5ac59a2fcff597470d02bf67"},"glaccountnumber":"1100","glaccountname":"Accounts Receivable","glaccounttype":"Accounts Receivable","__v":0}
+{"_id":{"$oid":"5ac59f80f523ea47d33cd9f6"},"glaccountnumber":"1102","glaccountname":"Other Accounts Receivable","glaccounttype":"Accounts Receivable","__v":0}
+{"_id":{"$oid":"5ac5befca3fc0f4aa03f8699"},"glaccountnumber":"4002","glaccountname":"Events Revenue","glaccounttype":"Income","__v":0}
+{"_id":{"$oid":"5ac6be53702580524cebce0f"},"glaccountnumber":"1000","glaccountname":"Bank Account","glaccounttype":"Bank","__v":0}
+{"_id":{"$oid":"5ac7881f2790555541a4b9a7"},"glaccountnumber":"1002","glaccountname":"Payroll Bank Account","glaccounttype":"Bank","__v":0}

@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ae6377ac0344c767d407791"},"invoice":{"$oid":"5ae6377ac0344c767d407790"},"item":{"$oid":"5ae63733c0344c767d40777f"},"quantity":1,"rate":200,"amount":200,"__v":0}
+{"_id":{"$oid":"5ae85d4ac36e888ffd0353ee"},"invoice":{"$oid":"5ae85d4ac36e888ffd0353ed"},"item":{"$oid":"5ae636ba8526297669afe3ad"},"quantity":1,"rate":1200,"amount":1200,"__v":0}
+{"_id":{"$oid":"5ae85fba955b3f9094469e99"},"invoice":{"$oid":"5ae85fba955b3f9094469e98"},"item":{"$oid":"5ae63733c0344c767d40777f"},"quantity":50,"rate":250,"amount":12500,"__v":0}

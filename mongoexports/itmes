@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ae636ba8526297669afe3ad"},"itemname":"Annual Membership Dues","incomeacct":{"$oid":"5ac52471a8144f3b541f8a7e"},"rate":1200,"__v":0}
+{"_id":{"$oid":"5ae63723c0344c767d40777e"},"itemname":"Golf Event","incomeacct":{"$oid":"5ac5befca3fc0f4aa03f8699"},"rate":50,"__v":0}
+{"_id":{"$oid":"5ae63733c0344c767d40777f"},"itemname":"Dinner Event","incomeacct":{"$oid":"5ac5befca3fc0f4aa03f8699"},"rate":250,"__v":0}
